@@ -481,7 +481,7 @@ display: flex;
 /* #######################small screen################ */
 @media (max-width: 500px){
     html{
-        .font-size: 50%;
+        font-size: 50%;
     }
     .testimonial-container{
         flex-direction: column;
@@ -506,7 +506,7 @@ display: flex;
         margin: 3rem auto;
 
     }
-        
+
 }
 /* #############landscape mode######### */
 @media (orientation:landscape) and (max-height: 500px){
