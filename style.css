@@ -464,7 +464,7 @@ display: flex;
         transform: rotate(-45deg);
     }
     /* ################food category################# */
-    .food-container{
+    .food-wrapper{
         flex-direction: column;
         align-items: stretch;
     }
